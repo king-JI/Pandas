@@ -1,7 +1,7 @@
 <h1 align="center">熊猫模拟器</h1>
 
 <div align="center">
-  基于 <code>rAthena</code> 构建的开源跨平台中文仙境传说模拟器，帮助您自由的构建世界
+  基于 <code>rAthena</code> 构建的开源跨平台中文仙境传说模拟器，帮助您自由的构建世界 test
 </div>
 
 <br />
